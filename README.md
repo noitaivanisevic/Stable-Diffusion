@@ -44,7 +44,7 @@ Stable Diffusion is a deep learning model that generates images from text, and i
  <li>Separation from Background: The subjects are well-differentiated from the backdrop, ensuring easy discernibility.</li>
 </ul></p>
 <h2>Character Variation</h2>
-  <img src="./generated artworks/dreambooth/Gandalf the gray.png" alt="Gandalf the gray" style="width:150px;height:150px; margin-right: 10px;"/>
+  <img src="./generated artworks/dreambooth/Gandalf the gray.png" alt="Gandalf the gray" style="width:150px;height:150px; center:10px;"/>
   <span>Gandalf the gray.</span>
 <p><img src="./generated artworks/dreambooth/Elfs with arrows.png" alt="Elfs with arrows" style="width:150px;height:150px;"/>
 Elfs with arrows</p>
