@@ -17,8 +17,7 @@ Stable Diffusion is a deep learning model that generates images from text, and i
   <li>Python 3.9+</li>
   <li>Installing the dependencies listed in requirements.txt.</li>
 </ul>
-<code>
-  pip install -r requirements.txt
+<code>pip install -r requirements.txt
 </code>
 
 <h1>Data Preparation</h1>
