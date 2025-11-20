@@ -54,8 +54,7 @@ a knight in purple, black and white with an elaborate helmet on his head.</p>
 a demon dressed in red and holding a sword.</p>
 
 <h2>Colour Variation of Same Characters</h2>
-<p><img src="./generated artworks/dreambooth/Knights in blue, black and white with an elaborate helmet on their head.png" alt="Knights in blue, black and white with an elaborate helmet on their head" style="width:150px;height:150px;"/>
-Knights in blue, black and white with an elaborate helmet on their head.</p>
+<p><img src="./generated artworks/dreambooth/Knights in blue, black and white with an elaborate helmet on their head.png" alt="Knights in blue, black and white with an elaborate helmet on their head" style="width:150px;height:150px;"/> Knights in blue, black and white with an elaborate helmet on their head.</p>
 <p><img src="./generated artworks/dreambooth/Knights in green, black and white with an elaborate helmet on their head.png" alt="Knights in green, black and white with an elaborate helmet on their head" style="width:150px;height:150px;"/>
 Knights in green, black and white with an elaborate helmet on their head.</p>
 <p><img src="./generated artworks/dreambooth/Knights in red, black and white with an elaborate helmet on their head.png" alt="Knights in red, black and white with an elaborate helmet on their head" style="width:150px;height:150px;"/>
