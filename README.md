@@ -50,7 +50,7 @@ Stable Diffusion is a deep learning model that generates images from text, and i
     align-items: center;
     gap: 15px;
     margin: 10px 0;
-    white-space: nowrap;     /* <-- This keeps the text on the same line */
+    width: 400px;            /* <-- Force enough width for image + text */
 ">
     <img src="./generated artworks/dreambooth/Gandalf the gray.png"
          alt="Gandalf the gray"
