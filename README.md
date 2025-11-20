@@ -44,20 +44,20 @@ Stable Diffusion is a deep learning model that generates images from text, and i
 </ul></p>
 <h2>Character Variation</h2>
 <p><img src="./generated artworks/dreambooth/Gandalf the gray.png" alt="Gandalf the gray" style="width:150px;height:150px;"/>
-Gandalf the gray.</p>
+Gandalf the gray</p>
 <p><img src="./generated artworks/dreambooth/Elfs with arrows.png" alt="Elfs with arrows" style="width:150px;height:150px;"/>
 Elfs with arrows</p>
 <p><img src="./generated artworks/dreambooth/a knight in purple, black and white with an elaborate helmet on his head.png" alt="a knight in purple, black and white with an elaborate helmet on his head" style="width:150px;height:150px;"/>
-a knight in purple, black and white with an elaborate helmet on his head.</p>
+a knight in purple, black and white with an elaborate helmet on his head</p>
 <p><img src="./generated artworks/dreambooth/a demon dressed in red and holding a sword.png" alt="a demon dressed in red and holding a sword" style="width:150px;height:150px;"/>
-a demon dressed in red and holding a sword.</p>
+a demon dressed in red and holding a sword</p>
 
 <h2>Colour Variation of Same Characters</h2>
 <p><img src="./generated artworks/dreambooth/Knights in blue, black and white with an elaborate helmet on their head.png" alt="Knights in blue, black and white with an elaborate helmet on their head" style="width:150px;height:150px;"/>
-Knights in blue, black and white with an elaborate helmet on their head.</p>
+Knights in blue, black and white with an elaborate helmet on their head./p>
 <p><img src="./generated artworks/dreambooth/Knights in green, black and white with an elaborate helmet on their head.png" alt="Knights in green, black and white with an elaborate helmet on their head" style="width:150px;height:150px;"/>
-Knights in green, black and white with an elaborate helmet on their head.</p>
+Knights in green, black and white with an elaborate helmet on their head</p>
 <p><img src="./generated artworks/dreambooth/Knights in red, black and white with an elaborate helmet on their head.png" alt="Knights in red, black and white with an elaborate helmet on their head" style="width:150px;height:150px;"/>
-Knights in red, black and white with an elaborate helmet on their head.</p>
+Knights in red, black and white with an elaborate helmet on their head</p>
 </body>
 </html>
