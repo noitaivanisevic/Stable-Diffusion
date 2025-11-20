@@ -34,7 +34,7 @@ Stable Diffusion is a deep learning model that generates images from text, and i
 <h2>Using Dreambooth</h2>
 <p>In this approach, the Stable Diffusion model got fine-tuned using Dreambooth. It involves setting up the model from huggingface and fine-tuning it with given gaming characters. The fine-tuned model then is used to generate new artwork related to gaming characters.</p>
 <h2>Using Keras-CV</h2>
-<p>In this appraoch, the Stable Diffusion model got fine-tuned using TensorFlow's Keras framework. A custom class is used for handling the training processes (including loss calculation and gradient updates) which updates part of the weight of the the diffusion model.</p>
+<p>In this appraoch, the Stable Diffusion model got fine-tuned using TensorFlow&#39;s Keras framework. A custom class is used for handling the training processes (including loss calculation and gradient updates) which updates part of the weight of the the diffusion model.</p>
 <h2>Evaluation</h2>
 <p>The fine-tuned stable diffusion model has generated a set of character images for evaluation. The images confirm the model&#39;s ability to:
 <ul>
