@@ -23,20 +23,18 @@ Stable Diffusion is a deep learning model that generates images from text, and i
 <h1>Data Preparation</h1>
 <p>To prepare your data for fine-tuning the Stable Diffusion model, follow these steps:</p>
 <h2>Step 1: Organize The Image Dataset</h2>
-<p>Place all the images you wish to use for fine-tuning inside the <code>
-./data/images/
-</code> folder.</p>
+<p>Place all the images you wish to use for fine-tuning inside the <code>./data/images/</code> folder.</p>
 <h2>Step 2: Write Prompt for Images</h2>
 <ul>
   <li>In Dreambooth, fine-tuning of all images is done using only one well-defined prompt.</li>
-  <li>Multiple Prompt (for Keras-CV): <br/> A separate prompt for each image in the dataset is required to implement stable diffusion with Keras-CV. The BLIP model can be used with the <code> ./preparation/auto prompting using the BLIP.ipynb </code> script to automatically generate descriptive captions for each image in the dataset.</li>
+  <li>Multiple Prompt (for Keras-CV): <br/> A separate prompt for each image in the dataset is required to implement stable diffusion with Keras-CV. The BLIP model can be used with the <code>./preparation/auto prompting using the BLIP.ipynb </code> script to automatically generate descriptive captions for each image in the dataset.</li>
 </ul>
 
 <h1>Fine-Tuning Process</h1>
 <h2>Using Dreambooth</h2>
 <p>In this approach, the Stable Diffusion model got fine-tuned using Dreambooth. It involves setting up the model from huggingface and fine-tuning it with given gaming characters. The fine-tuned model then is used to generate new artwork related to gaming characters.</p>
 <h2>Using Keras-CV</h2>
-<p>In this appraoch, the Stable Diffusion model got fine-tuned using TensorFlow&#39;s Keras framework. A custom class is used for handling the training processes (including loss calculation and gradient updates) which updates part of the weight of the the diffusion model.</p>
+<p>In this appraoch, the Stable Diffusion model got fine-tuned using TensorFlow's Keras framework. A custom class is used for handling the training processes (including loss calculation and gradient updates) which updates part of the weight of the the diffusion model.</p>
 <h2>Evaluation</h2>
 <p>The fine-tuned stable diffusion model has generated a set of character images for evaluation. The images confirm the model&#39;s ability to:
 <ul>
