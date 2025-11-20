@@ -1,17 +1,4 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
-<style>
-.character-item {
-  display: flex;
-  align-items: center;
-}
-
-.character-item img {
-  width: 150px;
-  height: 150px;
-  margin-right: 10px;
-}
-</style>
-
 <head></head><body>
 
 
@@ -58,8 +45,8 @@ Stable Diffusion is a deep learning model that generates images from text, and i
  <li>Separation from Background: The subjects are well-differentiated from the backdrop, ensuring easy discernibility.</li>
 </ul></p>
 <h2>Character Variation</h2>
-  <img src="./generated artworks/dreambooth/Gandalf the gray.png" alt="Gandalf the gray"/>
-  Gandalf the gray.
+  <img src="./generated artworks/dreambooth/Gandalf the gray.png" alt="Gandalf the gray" style="width:150px;height:150px; vertical-align: middle;"/>
+  <span>Gandalf the gray.</span>
 <p><img src="./generated artworks/dreambooth/Elfs with arrows.png" alt="Elfs with arrows" style="width:150px;height:150px;"/>
 Elfs with arrows</p>
 <p><img src="./generated artworks/dreambooth/a knight in purple, black and white with an elaborate helmet on his head.png" alt="a knight in purple, black and white with an elaborate helmet on his head" style="width:150px;height:150px;"/>
